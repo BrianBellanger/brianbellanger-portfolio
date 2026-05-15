@@ -10,12 +10,12 @@ export const personal = {
 
 export const projects = [
   {
-    title: 'Tangible Tunes',
+    title: 'Lyric Sync',
     description:
-      'Web application that synchronizes song lyrics with music playback and video content using external APIs.',
+      'A modern Vanilla JS web application that synchronizes song lyrics with music playback and video content using external APIs.',
     tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/BrianBellanger/Tangible-Tunes',
-    url: 'https://BrianBellanger.github.io/Tangible-Tunes',
+    github: 'https://github.com/BrianBellanger/LyricSync',
+    url: 'https://lyricsync-app.vercel.app/',
     placeholder: false,
   },
   {
