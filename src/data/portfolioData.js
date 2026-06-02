@@ -19,13 +19,13 @@ export const projects = [
     placeholder: false,
   },
   {
-    title: 'Project Placeholder',
+    title: 'PipelineHQ',
     description:
-      'Coming soon — this project will be added once it is ready to share publicly.',
-    tech: ['TBD'],
-    github: null,
-    url: null,
-    placeholder: true,
+      'PipelineHQ is an enterprise-style Project Intake & Governance Platform inspired by real operational workflows I encountered while working in corporate IT environments.',
+    tech: ['React', 'Node.js', 'Express', 'PostgreSQL', 'Prisma'],
+    github: 'https://github.com/BrianBellanger/PipelineHQ',
+    url: 'https://pipeline-hq-gules.vercel.app',
+    placeholder: false,
   },
   {
     title: 'Project Placeholder',
