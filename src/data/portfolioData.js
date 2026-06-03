@@ -2,7 +2,7 @@ export const personal = {
   name: 'Brian Bellanger',
   title: 'Full Stack Developer',
   summary:
-    'Full Stack Developer experienced in complex business workflows, API integrations, and data-driven applications. Strong background in regulated environments, legacy modernization, and AI-assisted development workflows.',
+    'Full Stack Developer experienced in complex business systems, API integrations, and data-driven applications. Strong background in regulated environments, legacy modernization, and AI-assisted development.',
   email: 'brianjbellanger@gmail.com',
   linkedin: 'https://www.linkedin.com/in/BrianBellanger',
   github: 'https://github.com/BrianBellanger',
